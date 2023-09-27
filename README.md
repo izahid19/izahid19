@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izahid19&label=Profile%20views&color=0e75b6&style=flat" alt="izahid19" /> </p>
 
-- 🌱 I’m currently learning **Vite , Nextjs and Framework**
+- 🌱 I’m currently learning **Vite , Nextjs, Bootstrap and Framework**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio00x.netlify.app/](https://myportfolio00x.netlify.app/)
 
 - 📫 How to reach me **developer.zahidmushtaq@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-EYKe-nXzRQq0RrRbL8pRTxo_99xg4tR/view](https://drive.google.com/file/d/1-EYKe-nXzRQq0RrRbL8pRTxo_99xg4tR/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
